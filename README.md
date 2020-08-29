@@ -60,5 +60,5 @@
 
 **这里我还没又写后台修改功能因为我懒了我想去写=我得`Flutter`了**
 
-![image](https://github.com/CasparNice/plumsugar2/blob/master/ScreenShots/2020-08-11%20193652.png)
+![image](https://github.com/CasparNice/plumsugar/blob/master/ScreenShots/2020-08-11%20193652.png)
 
