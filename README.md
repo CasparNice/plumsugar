@@ -1,10 +1,11 @@
 # 梅糖日记
 
 ## 前言
+**我不小心把项目给删除了,这是重新建立的仓库上传的项目,以后项目也在这里更新,之前的就当是个笑话.**
 
 项目服务地址：
 
-> 如果说地址每填就是我太穷了关了服务꒰⑅•ᴗ•⑅꒱
+> 我穷关了服务꒰⑅•ᴗ•⑅꒱
 
 * 梅糖日记----主要用来写日记和博客
 * 热爱可抵岁月漫长    哈哈哈~
@@ -59,5 +60,5 @@
 
 **这里我还没又写后台修改功能因为我懒了我想去写=我得`Flutter`了**
 
-![image](https://github.com/CasparNice/plumsugar/blob/master/ScreenShots/2020-08-11%20193652.png)
+![image](https://github.com/CasparNice/plumsugar2/blob/master/ScreenShots/2020-08-11%20193652.png)
 
